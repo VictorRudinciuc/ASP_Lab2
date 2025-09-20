@@ -1,0 +1,45 @@
+## Ignore Visual Studio temporary files, build results, and user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+
+# Visual Studio Code settings
+.vscode/
+
+# Rider IDE files
+.idea/
+
+# NuInclude secrets or local configuration
+appsettings.Development.json
+secrets.json
+
+# Npm / Node.js
+node_modules/
+npm-debug.log
+
+# Mac / Linux specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Coverage results
+coverage/
+*.lcov
+
+# JetBrains Rider
+.idea/
+
+# DotNet tool files
+*.dotCover
+
+# Other
+*.vsix
