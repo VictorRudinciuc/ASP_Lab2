@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "projectAsp.Controllers.HelloWorldController",
+    "Method": "HelloWorld",
+    "RelativePath": "api/hello-world",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "Contact - Servicii Publice";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Contact</h1>
+
+<p>Pentru întrebări și programări:</p>
+
+<ul>
+    <li><strong>Telefon:</strong> +373 000 000 000</li>
+    <li><strong>Email:</strong> office@serviciipublice.md</li>
+    <li><strong>Adresa:</strong> Str. MiauMiau 10, Chișinău</li>
+</ul>
+
+<h2>Programări pentru buletin / pașaport</h2>
+<p>Pentru a programa o vizită la ghișeu vă rugăm să trimiteți un email sau să sunați la numărul de telefon menționat. Programările se realizează în zilele lucrătoare între 09:00 și 15:30.</p>
+
+<form method="post" action="#">
+    <label>Nume:</label><br />
+    <input type="text" name="nume" /><br />
+    <label>Telefon / Email:</label><br />
+    <input type="text" name="contact" /><br />
+    <label>Mesaj:</label><br />
+    <textarea name="mesaj" rows="4"></textarea><br />
+    <button type="submit">Trimite</button>
+</form>
