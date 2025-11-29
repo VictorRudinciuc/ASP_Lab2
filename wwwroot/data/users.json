@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "c8cc1566-e10f-4fd8-b2e7-795f90a47683",
+    "Email": "rudinciuk1@gmail.com",
+    "PasswordHash": "AQAAAAIAAYagAAAAEBkIQxnXyEYgaAqw5qi\u002BxvLWtIzbu4rhgx5yakRfK\u002B0Hj0Z\u002B317OrtwxhCSn/W2lnA==",
+    "DisplayName": "rudinciuc",
+    "PasswordResetToken": "u5LWi9LXnkWDJbQFqlOwYw==cc\u002B0QrHq8UCzdC5J/dWpLg==",
+    "PasswordResetTokenExpires": "2025-10-04T08:56:19.8765775Z"
+  },
+  {
+    "Id": "f31bdb45-26d7-420c-a7bd-c29cc55b19af",
+    "Email": "Rudinciu@gmail.com",
+    "PasswordHash": "AQAAAAIAAYagAAAAEP7/209uRxMf4xEZKSbExJMDWA50I\u002BdpB6UOVEfEos0LLUXNBEeTX/vVNTjcUVzHNw==",
+    "DisplayName": "Victor",
+    "PasswordResetToken": null,
+    "PasswordResetTokenExpires": null
+  }
+]
