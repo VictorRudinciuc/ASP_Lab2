@@ -1,0 +1,20 @@
+
+@model List< projectAsp.Models.User>
+    @{
+    ViewBag.Title = "Users";
+    }
+    <h2>Registered users</h2>
+
+    <table>
+        <thead><tr><th>Email</th><th>Display Name</th><th>Id</th></tr></thead>
+        <tbody>
+            @foreach(var u in Model)
+    {
+            <tr>
+                <td>@u.Email</td>
+                <td>@u.DisplayName</td>
+                <td>@u.Id</td>
+            </tr>
+    }
+        </tbody>
+    </table>
